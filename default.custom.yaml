@@ -29,6 +29,7 @@ patch:
     Shift_R: noop
     Control_L: noop
     Control_R: noop
+    Eisu_toggle: clear
 
   key_binder/bindings:
     - when: paging
